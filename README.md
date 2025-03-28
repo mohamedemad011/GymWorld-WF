@@ -7,19 +7,19 @@ A **Windows Forms** application built using **C#** and **Entity Framework (Code 
 ## 📸 Screenshots  
 
 ### 🔹 Login Page  
-![Login](gym_img/login.png)  
+<img src="gym_img/login.png" width="500">  
 
 ### 🔹 Main Gym Interface  
-![Main Gym](gym_img/maingym.png)  
+<img src="gym_img/maingym.png" width="500">  
 
 ### 🔹 User Registration  
-![Registration](gym_img/reg.png)  
+<img src="gym_img/reg.png" width="500">  
 
 ### 🔹 Trainer Section  
-![Trainer](gym_img/trainer.png)  
+<img src="gym_img/trainer.png" width="500">  
 
 ### 🔹 Training Sessions  
-![Training](gym_img/training.png)  
+<img src="gym_img/training.png" width="500">  
 
 ---
 
@@ -42,4 +42,5 @@ A **Windows Forms** application built using **C#** and **Entity Framework (Code 
 - **SQL Server**  
 - **GitHub for Version Control**  
 
+---
 
