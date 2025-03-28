@@ -1,1 +1,1 @@
-![Login](gym photos/login.png)
+![Login](gym_img/login.png)
