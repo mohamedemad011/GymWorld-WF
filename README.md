@@ -38,3 +38,8 @@ A **Windows Forms** application built using **C#** and **Entity Framework (Code 
 
 - **C# (.NET Framework)**  
 - **Windows Forms (WinForms)**  
+- **Entity Framework Core (Code First)**  
+- **SQL Server**  
+- **GitHub for Version Control**  
+
+
